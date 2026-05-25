@@ -9,7 +9,7 @@
 ---
 
 ## Overview
-Binary classification system analyzing **1,000 loan records across 20 features** 
+Binary classification system analyzing **1,000 loan records across 20 features**  
 to automate loan approval predictions. Three ML algorithms compared; key financial 
 drivers identified through EDA and correlation analysis.
 
