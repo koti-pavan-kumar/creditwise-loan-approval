@@ -11,8 +11,8 @@ financial drivers of loan approval through EDA.
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
 | Naive Bayes | **86.5%** | 80.35% | 73.77% | 76.92% |
-| Logistic Regression | X% | X% | X% | X% |
-| KNN | X% | X% | X% | X% |
+| Logistic Regression | **86.5%** | 78.33% | 77.04% | 77.68% |
+| KNN | **76%** | 62.74% | 52.45% | 57.14% |
 
 ## Key Findings
 - **Credit Score** = strongest positive predictor of loan approval
