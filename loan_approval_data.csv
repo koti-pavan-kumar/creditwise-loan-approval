@@ -5,7 +5,7 @@ Applicant_ID,Applicant_Income,Coapplicant_Income,Employment_Status,Age,Marital_S
 4.0,13964.0,8173.0,Salaried,40.0,Married,2.0,579.0,3.0,0.31,9553.0,10844.0,27819.0,60.0,Business,Rural,Graduate,Female,Government,No
 5.0,13284.0,4223.0,Self-employed,31.0,Single,2.0,721.0,1.0,0.29,9386.0,37629.0,12741.0,72.0,Car,,Graduate,Male,Private,Yes
 6.0,8265.0,4831.0,Salaried,53.0,Single,1.0,602.0,1.0,0.56,19522.0,2911.0,9798.0,36.0,Home,Semiurban,Graduate,Male,Unemployed,No
-7.0,18850.0,2768.0,Salaried,58.0,Married,0.0,687.0,0.0,0.48,14635.0,8991.0,26143.0,24.0,Home,Rural,Graduate,Male,Private,No
+7.0,18850.0,2768.0,Salaried,58.0,Married,0.0,687.0,0.0,0.48,14635.0,8991.0,26143.0,24.0,Home,Rural,Graduate,Male,Private,No 
 8.0,6426.0,3186.0,Salaried,47.0,Married,2.0,636.0,4.0,,671.0,11572.0,33747.0,84.0,Personal,Rural,Graduate,Female,,No
 9.0,16423.0,,Salaried,54.0,Married,1.0,729.0,0.0,0.59,777.0,43066.0,34651.0,36.0,Home,Semiurban,Graduate,Male,Private,No
 10.0,13363.0,2599.0,Contract,35.0,Single,3.0,726.0,1.0,,3022.0,29693.0,22182.0,60.0,Personal,Rural,Graduate,Female,Government,Yes
