@@ -1,0 +1,13 @@
+from sklearn.metrics import ConfusionMatrixDisplay
+
+fig, ax = plt.subplots(figsize=(6, 5))
+ConfusionMatrixDisplay.from_predictions(
+    y_test, y_pred,
+    display_labels=["Rejected", "Approved"],
+    cmap="Blues", ax=ax
+)
+ax.set_title('Naive Bayes - Confusion Matrix', fontsize=13, fontweight='bold')
+plt.tight_layout()
+plt.savefig('images/confusion_matrix.png', dpi=150, bbox_inches='tight')
+plt.show()
+print("Saved.")
