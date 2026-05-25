@@ -58,6 +58,8 @@ data-driven approval decisions.
 **Key drivers identified through EDA:**
 - Credit Score — strongest positive predictor of approval
 - DTI (Debt-to-Income) Ratio — strongest negative predictor of approval
+  
+**Future Work:** Plan to engineer an 'Income-to-Loan Ratio' feature to capture the interaction between an applicant's earnings and their requested loan amount, which often improves linear model performance.
 
 ---
 
